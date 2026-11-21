@@ -7,3 +7,10 @@ This repository contains my database engineering learning journey.
 - Database Management
 - Data Analysis
 - Python
+
+## Tools I'm Learning
+- Visual Studio Code
+- Git and GitHub
+- Ubuntu Linux
+- Python
+- C++
